@@ -889,7 +889,7 @@ export default function App() {
       </footer>
 
       {/* WhatsApp FAB */}
-      <a href="https://wa.me/49XXXXXXXXX" target="_blank" rel="noreferrer" style={{
+      <a href="https://wa.me/4915730039455" target="_blank" rel="noreferrer" style={{
         position:"fixed",bottom:28,right:28,zIndex:200,width:56,height:56,
         background:"linear-gradient(135deg,#25D366,#1da851)",borderRadius:"50%",
         display:"flex",alignItems:"center",justifyContent:"center",fontSize:26,
