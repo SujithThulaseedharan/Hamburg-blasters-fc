@@ -526,7 +526,7 @@ export default function App() {
               {FIXTURES.map((f,i)=>(
                 <div key={i} className="card" style={{ padding:"20px 24px",borderLeft:"3px solid #1a6fff",display:"flex",justifyContent:"space-between",alignItems:"center",flexWrap:"wrap",gap:12 }}>
                   <div>
-                    <div style={{ fontSize:10,color:"#f5c400",fontWeight:800,letterSpacing:".15em",marginBottom:6 }}>{f.date} 2025</div>
+                    <div style={{ fontSize:10,color:"#f5c400",fontWeight:800,letterSpacing:".15em",marginBottom:6 }}>{f.date} 2026</div>
                     <div style={{ fontWeight:800,fontSize:18 }}>vs {f.opp}</div>
                     <div style={{ fontFamily:"'Barlow',sans-serif",fontSize:12,color:"rgba(255,255,255,.4)",marginTop:4 }}>📍 {f.venue}</div>
                   </div>
