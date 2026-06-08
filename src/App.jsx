@@ -95,9 +95,9 @@ const RESULTS = [
 ];
 
 const NEWS = [
-  { tag:"Tournament", date:"Jun 01, 2025", title:"KEFF Summer 2025 – Blasters Registered!", body:"Hamburg Blasters FC has officially entered the KEFF Summer Tournament 2025, ready to face top Malayali clubs across Germany." },
-  { tag:"Sponsor", date:"May 15, 2025", title:"NILA Restaurant Extends Sponsorship", body:"NILA South Indian – Kerala Restaurant has renewed their main sponsorship, continuing a proud and growing partnership with the club." },
-  { tag:"Match Report", date:"May 11, 2025", title:"Blasters Win 3–1 vs Kerala Stars HH", body:"Dominant display at Sportpark Eilbek. Captain Tom Varghese led the team with outstanding performance from first whistle to last." },
+  { tag:"Tournament", date:"Jul 01, 2026", title:"KEFF Summer 2025 – Blasters Registered!", body:"Hamburg Blasters FC has officially entered the KEFF Summer Tournament 2025, ready to face top Malayali clubs across Germany." },
+  { tag:"Sponsor", date:"Aug 15, 2026", title:"NILA Restaurant Extends Sponsorship", body:"NILA South Indian – Kerala Restaurant has renewed their main sponsorship, continuing a proud and growing partnership with the club." },
+  { tag:"Match Report", date:"Sep 11, 2026", title:"Blasters Win 3–1 vs Kerala Stars HH", body:"Dominant display at Sportpark Eilbek. Captain Tom Varghese led the team with outstanding performance from first whistle to last." },
 ];
 
 export default function App() {
