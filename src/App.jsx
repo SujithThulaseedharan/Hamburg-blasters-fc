@@ -68,7 +68,7 @@ function Counter({ target, suffix = "" }) {
 const NAV = ["Home","About","Team","Fixtures","Gallery","News","Sponsors","Join Us","Contact"];
 
 const PLAYERS = [
-  { name:"Arjun Nair", pos:"GK", no:1, g:0, a:0 },
+  { name:"tt", pos:"GK", no:1, g:0, a:0 },
   { name:"Rahul Menon", pos:"CB", no:4, g:2, a:1 },
   { name:"Vishnu Krishnan", pos:"LB", no:3, g:1, a:3 },
   { name:"Amal George", pos:"RB", no:2, g:0, a:4 },
