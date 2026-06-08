@@ -694,7 +694,7 @@ export default function App() {
                 animation:"pulse 3s ease-in-out infinite",
               }}>🍛</div>
               <h3 style={{ fontSize:"clamp(36px,6vw,72px)",fontWeight:900,color:"#f5c400",letterSpacing:".04em",textShadow:"0 0 30px rgba(245,196,0,.5)" }}>NILA</h3>
-              <p style={{ fontFamily:"'Barlow',sans-serif",color:"rgba(255,255,255,.6)",fontSize:16,marginTop:8 }}>South Indian – Kerala Restaurant · Hamburg</p>
+              <p style={{ fontFamily:"'Barlow',sans-serif",color:"rgba(255,255,255,.6)",fontSize:16,marginTop:8 }}>South Indian – Kerala Restaurant · Berlin</p>
               <p style={{ fontFamily:"'Barlow',sans-serif",color:"rgba(255,255,255,.4)",fontSize:13,marginTop:16,maxWidth:500,margin:"16px auto 0",lineHeight:1.75 }}>
                 {t("NILA Restaurant proudly supports Hamburg Blasters FC, uniting the Malayali community through authentic South Indian cuisine and the beautiful game.",
                   "NILA Restaurant unterstützt stolz den Hamburg Blasters FC und verbindet die Malayali-Gemeinschaft durch authentische Küche.")}
